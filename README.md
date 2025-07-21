@@ -16,6 +16,7 @@ An interactive and data-driven dashboard built using Power BI to analyze road ac
 ## ⚙️ Tools & Technologies
 - Power BI (Desktop)
 - Microsoft Excel (Data preparation)
+- Dataset: https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset
 
 ---
 
