@@ -31,6 +31,3 @@ An interactive and data-driven dashboard built using Power BI to analyze road ac
 
 <img width="1162" height="649" alt="image" src="https://github.com/user-attachments/assets/d19933f6-72d8-4de5-8f0c-a40b22f30a11" />
 
-
-```markdown
-![Dashboard Screenshot](images/dashboard-preview.png)
